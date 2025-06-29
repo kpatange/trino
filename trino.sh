@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author
+#Author : Krunal Patange
 # Exit on any error, but handle expected failures gracefully
 set -e
 
